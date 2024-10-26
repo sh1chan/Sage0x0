@@ -1,7 +1,7 @@
 # Issue Tracker: Project Sage0x0
 
 <div align="center">
-![TgBot](./static/readme/meow.png)
+  <img src="./static/readme/meow.png" />
 </div>
 
 
