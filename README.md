@@ -17,16 +17,17 @@
     - [ ] Update `reply` Message
   - [x] uStats
     - [x] Handler
-    - [ ] Update `reply` Message
-  - [ ] uFilter
-    - [ ] Handler
+    - [ ] Wins in Channels
+    - [ ] Wins in Groups
+  - [x] uFilter
+    - [x] Handler
   - [x] uAttack
     - [x] Handler
     - [x] Attack User
     - [x] Skip Attack User
-    - [ ] Update `reply` Message
-    - [ ] Remove Callback before attack
-    - [ ] Replace Callback for next attack
+    - [x] Update `reply` Message
+    - [x] Remove Callback before attack
+    - [x] Replace Callback for next attack
   - [ ] uAttackChannel
   - [ ] uAttackAlliedChannel
   - [ ] uAttackGroup
