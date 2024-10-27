@@ -32,6 +32,10 @@
   - [ ] uAttackAlliedChannel
   - [ ] uAttackGroup
   - [ ] uAttackAlliedGroup
+  - [ ] uJoinChannel
+  - [ ] uLeaveChannel
+  - [ ] uJoinGroup
+  - [ ] uLeaveGroup
 - [ ] Channel Commands
   - [ ] cRegister
   - [ ] cStats
@@ -40,6 +44,10 @@
   - [ ] cAttackAlliedChannel
   - [ ] cAttackGroup
   - [ ] cAttackAlliedGroup
+  - [ ] cJoinAlliedChannel
+  - [ ] cLeaveAlliedChannel
+  - [ ] cCreateAlliedChannel
+  - [ ] cDeleteAlliedChannel
 - [ ] Group Commands
   - [ ] gRegister
   - [ ] gStats
@@ -48,3 +56,7 @@
   - [ ] gAttackAlliedChannel
   - [ ] gAttackGroup
   - [ ] gAttackAlliedGroup
+  - [ ] gJoinAlliedGroup
+  - [ ] gLeaveAlliedGroup
+  - [ ] gCreateAlliedGroup
+  - [ ] gDeleteAlliedGroup
