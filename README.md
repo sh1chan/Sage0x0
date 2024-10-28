@@ -2,6 +2,7 @@
 
 Interface:
   - TelegramBot: https://t.me/Sage0x0Bot
+    - Main Channel: https://t.me/Sage0x0
 
 <div align="center">
   <img src="./static/readme/meow.png" />
